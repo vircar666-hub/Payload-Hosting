@@ -1,0 +1,32 @@
+{
+  "name": "PS5 Payloads by Helwem",
+  "payloads": [
+	{
+      "name": "",
+      "filename": "Kstuff_Littel_v1.07beta3(work).elf",
+      "url": "https://vircar666-hub.github.io/Payload-Hosting/Kstuff_Littel_v1.07beta3(work).elf",
+      "source": "",
+      "description": "Desbloqueador de juegos y apps",
+      "last_update": "12.06.2026",
+      "version": ""
+    },
+	{
+      "name": "",
+      "filename": "ShadowMountPlus_v1.6test15-fix2.elf",
+      "url": "https://vircar666-hub.github.io/Payload-Hosting/ShadowMountPlus_v1.6test15-fix2.elf",
+      "source": "",
+      "description": "Payload automatizado para montar e instalar copias de juegos de PS5",
+      "last_update": "12.06.2026",
+      "version": ""
+    },
+    {
+      "name": "",
+      "filename": "Kstuff_Toggle_v0.6Beta.elf",
+      "url": "https://vircar666-hub.github.io/Payload-Hosting/Kstuff_Toggle_v0.6Beta.elf",
+      "source": "",
+      "description": "Mejora el rendimiento de los juegos caseros en tu PS5/PS4 desactivando Kstuff después de iniciar el juego",
+      "last_update": "12.06.2026",
+	  "version": ""
+    }
+  ]
+}
